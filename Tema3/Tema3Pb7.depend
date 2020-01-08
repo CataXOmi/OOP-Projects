@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1578480160 source:e:\facultate\anul ii\sem i\programare orientata pe obiecte\teme\tema3\tema3pb7\main.cpp
+	<iostream>
+	<tuple>
+	<set>
+	<typeinfo>
+	<string.h>
+	<vector>
+	<bits/stdc++.h>
+
