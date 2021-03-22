@@ -1,0 +1,17 @@
+Se considera o clasa din cadrul proiectului individual.
+Realizati urmatoarele cerinte, astfel incat sa aiba sens in cadrul proiectului:
+- Definiti constructorii (initializare, parametrizati, copiere) si destructorul;//.....checked
+- Adaugati un constructor parametrizat care, prin intermediul unui parametru bool
+sa atribuie valori campurilor clasei de la consola ("true") si din fisier ("false");//.....checked
+- Implementati supraincarcarea operatorilor: -(minus) - schimba semnul campurilor;
+--(decrementare), atat in forma prefixata cat si postfixata;
+!= (diferit); (float) - operatorul de cast catre float.
+- Transformati o functie prieten din cadrul proiectului intr-o functie membra;
+- Transformati o functie membra din cadrul proiectului intr-o functie friend;
+- Implementati tot ce este necesar ca sa functioneze urmatorul demo:
+Obiect v[4];
+cin>>v[1];
+cout<<v[1];
+v[2]=v[3]=(v[1] + v[1]);//.....checked
+- Adaugati o clasa "Management" in care se retine un vector de obiecte si pentru ea sa implementeze 
+<<, >>, operator=, copy instructor.//.....checked
